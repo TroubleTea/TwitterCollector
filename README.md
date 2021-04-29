@@ -2,14 +2,12 @@
 
 ## Tools
     - vscode
-    - anaconda
     - docker
     - docker-compose
     - postgresql
 
 ### Links
 
-- https://docs.conda.io/en/latest/miniconda.html
 - https://docs.docker.com/docker-for-windows/install/
 - https://code.visualstudio.com/
 - https://www.postgresql.org/docs/
