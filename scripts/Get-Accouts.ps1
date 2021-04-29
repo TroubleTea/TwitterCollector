@@ -1,0 +1,2 @@
+$data = Get-Content members.json | ConvertFrom-Json
+$data.data.list.members_timeline.timeline.instructions?.entries?.content?.itemContent?.user | select rest_id,@{ E={ $_.legacy?.name }; N='name' },@{ E={ $_.legacy?.screen_name }; N='screen_name' } | ConvertTo-Json > accounts.json
