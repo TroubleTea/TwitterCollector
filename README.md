@@ -17,7 +17,6 @@
 - https://hub.docker.com/r/bitnami/grafana/
 
 # Libraries
-    - tweepy?
 
 ## Twitter Search API
 https://developer.twitter.com/en/docs/twitter-api/tweets/search/api-reference/get-tweets-search-recent
