@@ -1,4 +1,4 @@
-# bachelor - insert topic here
+# Thesis - Twitter Text elevation for sentiment reasoning
 
 ## Tools
     - vscode
